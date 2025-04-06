@@ -1,5 +1,5 @@
 ## About Me:
-Being a  BCA graduate I am very passionate about programming with a keen interest in Web <br>Development, with a strong foundation in HTML, CSS, and JavaScript, supplemented by basic knowledge of <br>React.js, Node.js, and Three.js. My journey is fueled by a profound fascination with web design, where I <br>strive to create captivating and immersive user experiences. Through continuous learning and <br>experimentation, I aim to push the boundaries of creativity and innovation in web development, embracing <br>both frontend and backend technologies to craft visually stunning and functional digital experiences.
+I’m a MERN Stack Developer currently pursuing my Master’s degree, with hands-on experience in building full-stack applications using MongoDB, Express.js, React.js, and Node.js. I'm also familiar with Next.js for server-side rendering and building scalable web apps, along with PostgreSQL for relational database management and basic knowledge of TypeScript. My foundation in HTML, CSS, and JavaScript, combined with an interest in 3D web development using Three.js, allows me to create modern, responsive, and visually engaging web applications. I continuously explore new tools and technologies to deliver efficient and user-centric solutions.
 
 
 ## 🌐 Socials:
