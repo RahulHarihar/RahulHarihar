@@ -3,7 +3,7 @@ I’m a MERN Stack Developer currently pursuing my Master’s degree, with hands
 
 
 ## 🌐 Socials:
-[![Portfolio](https://rahul-harihar-portfolio.vercel.app)]
+[Portfolio](https://rahul-harihar-portfolio.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/raahhull.h?igsh=MWJpbnhoZmNleTEzbQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rahulharihar-)
 
 # 💻 Tech Stack:
