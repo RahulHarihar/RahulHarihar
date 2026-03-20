@@ -1,21 +1,20 @@
-<!-- header -->
 <div align="center">
 
-```
-██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗
-██╔══██╗██╔══██╗██║  ██║██║   ██║██║
-██████╔╝███████║███████║██║   ██║██║
-██╔══██╗██╔══██║██╔══██║██║   ██║██║
-██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Rahul+Harihar+%F0%9F%91%8B;Full-Stack+Engineer;MERN+%C2%B7+TypeScript+%C2%B7+AWS;MCA+Candidate+2026" alt="Typing SVG" />
+</h1>
 
-**`full-stack engineer · mern · typescript · aws · mca candidate 2026`**
+<p>
+  <strong>Building things that are fast, honest, and well-structured.</strong><br/>
+  <sub>from database schema → deployed UI</sub>
+</p>
 
-[![portfolio](https://img.shields.io/badge/◈_portfolio-000000?style=flat-square&logoColor=white)](https://rahulharihar-portfolio.vercel.app)
-[![linkedin](https://img.shields.io/badge/◈_linkedin-000000?style=flat-square&logoColor=white)](https://linkedin.com/in/rahulharihar-)
-[![twitter](https://img.shields.io/badge/◈_twitter-000000?style=flat-square&logoColor=white)](https://twitter.com/iamRahul_H)
-[![devstrex](https://img.shields.io/badge/◈_devstrex-00ff88?style=flat-square&logoColor=black)](https://devstrex.vercel.app)
+<br/>
+
+[![portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rahulharihar-portfolio.vercel.app)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulharihar-)
+[![twitter](https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iamRahul_H)
+[![devstrex](https://img.shields.io/badge/devstrex-00ff88?style=for-the-badge&logoColor=black)](https://devstrex.vercel.app)
 
 </div>
 
@@ -25,15 +24,11 @@
 
 ```yaml
 name     : Rahul Harihar
-role     : Full-Stack Engineer · Team Lead (intern)
+role     : Full-Stack Engineer  |  Team Lead (internship)
 team     : Leading 5 engineers on MERN + AWS microservices product
-learning : MCA — 2026
 status   : open to remote roles ✓
 location : India
 ```
-
-> Building things that are fast, honest, and well-structured —
-> from database schema to deployed UI.
 
 ---
 
@@ -41,13 +36,13 @@ location : India
 
 ```json
 {
-  "languages"  : ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-  "frontend"   : ["React", "Next.js", "Tailwind CSS", "Three.js", "Framer Motion", "GSAP"],
-  "backend"    : ["Node.js", "Express.js", "REST APIs", "Microservices", "JWT"],
-  "databases"  : ["MongoDB", "PostgreSQL", "MySQL"],
-  "ml_data"    : ["NumPy", "Pandas", "PyTorch"],
-  "cloud_infra": ["AWS", "Vercel", "Render", "MongoDB Atlas", "Supabase"],
-  "tools"      : ["Git", "GitHub", "Figma", "Vite", "VS Code", "Sentry"]
+  "languages"   : ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+  "frontend"    : ["React", "Next.js", "Tailwind CSS", "Three.js", "Framer Motion"],
+  "backend"     : ["Node.js", "Express.js", "REST APIs", "Microservices", "JWT"],
+  "databases"   : ["MongoDB", "PostgreSQL", "MySQL"],
+  "ml_data"     : ["NumPy", "Pandas", "PyTorch"],
+  "cloud_infra" : ["AWS", "Vercel", "Render", "MongoDB Atlas", "Supabase"],
+  "tools"       : ["Git", "GitHub", "Figma", "Vite", "VS Code", "Sentry"]
 }
 ```
 
@@ -56,15 +51,17 @@ location : India
 ## `$ git log --oneline`
 
 ```
-▲  devstrex      —  full-stack dev challenge tracker (solo, deployed, TypeScript)
-◈  open-day-site —  state-level event platform · 1,200+ views · 40+ schools
-◈  hackathon-site —  pac-man themed dept. hackathon site · built with 4 devs
-◈  oss-pr        —  merged: test/auth signup validation cleanup
+a3f91bc  feat: devstrex — full-stack dev challenge tracker (solo · deployed · TypeScript)
+d82e1a0  feat: open-day-site — state event platform · 1,200+ views · 40+ schools registered
+9c4b3f2  feat: hackathon-site — pac-man themed site · built with 4 devs
+f50a219  chore: oss-pr — merged: test/auth signup validation cleanup
 ```
 
-### spotlight — devstrex
+<br/>
 
-> **[devstrex.vercel.app](https://devstrex.vercel.app)** — create any dev challenge. log daily. share your streak publicly.
+### `▲ spotlight — devstrex`
+
+> **[devstrex.vercel.app](https://devstrex.vercel.app)** — create any dev challenge. log daily. track streaks. share publicly.
 >
 > `React 18` `Node.js` `Express` `MongoDB` `TypeScript` `Tailwind v4` `JWT` `Render` `Vercel` `Atlas`
 >
@@ -76,10 +73,13 @@ location : India
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RahulHarihar&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=0d0d0d" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulHarihar&theme=highcontrast&hide_border=true&layout=compact&count_private=true&title_color=00ff88&text_color=ffffff&bg_color=0d0d0d" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RahulHarihar&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00ff88&icon_color=00ff88&text_color=ffffff&bg_color=0d0d0d" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulHarihar&theme=highcontrast&hide_border=true&layout=compact&count_private=true&title_color=00ff88&text_color=ffffff&bg_color=0d0d0d" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulHarihar&theme=highcontrast&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&background=0d0d0d" width="60%" />
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulHarihar&theme=highcontrast&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&background=0d0d0d" height="170" />
 
 </div>
 
@@ -88,11 +88,12 @@ location : India
 ## `$ cat open-source.txt`
 
 ```diff
-+ MERGED  test/auth signup validation cleanup
-  repo    : [repo-name] → update this link
-  what    : refactored auth signup validation for readability + maintainability
-  process : collaborated through full code review cycle · ran full ci test suite
-  result  : pr accepted by maintainer ✓
++ MERGED   test/auth signup validation cleanup
+  repo   : code-a2z/paisable
+  what   : refactored auth signup validation — improved readability + maintainability
+  how    : collaborated through full code review cycle · ran full ci test suite
+  result : pr accepted by maintainer ✓
+  link   : https://github.com/code-a2z/paisable/pull/46
 ```
 
 ---
@@ -100,37 +101,24 @@ location : India
 ## `$ cat leadership.txt`
 
 ```
-[01] general championship · inter-college communication events
-     winner 2× · runner-up 2× · state level · led team of 3
+[01]  General Championship — Inter-College Communication Events
+      Winner 2×  ·  Runner-up 2×  ·  State level  ·  Led team of 3
 
-[02] national hackathon · tech volunteer
-     framed ai/ml + blockchain problem statements
-     monitored participant repositories
+[02]  National Hackathon — Tech Volunteer
+      Framed AI/ML + Blockchain problem statements
+      Monitored participant repositories
 ```
 
 ---
 
-## `$ cat education.txt`
-
-```
-┌─────────────────────────────────────────────────┐
-│  MCA   Master of Computer Applications          │
-│        [University Name] · Dec 2024 – Present   │
-├─────────────────────────────────────────────────┤
-│  BCA   Bachelor of Computer Applications        │
-│        [University Name] · Oct 2021 – Sep 2024  │
-└─────────────────────────────────────────────────┘
-```
-
----
 
 <div align="center">
 
-```
-open to remote roles · india · mca 2026
-rahulharihar-portfolio.vercel.app
-```
+<sub><b>open to remote roles · India · MCA 2026</b></sub><br/>
+<sub><a href="https://rahulharihar-portfolio.vercel.app">rahulharihar-portfolio.vercel.app</a></sub>
 
-*`// thanks for visiting`*
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=RahulHarihar&color=00ff88&style=flat-square&label=profile+views" />
 
 </div>
