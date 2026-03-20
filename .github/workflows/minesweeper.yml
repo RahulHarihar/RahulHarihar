@@ -1,0 +1,22 @@
+name: Minesweeper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *" # regenerates every 6 hours
+  issues:
+    types: [opened]
+
+jobs:
+  minesweeper:
+    runs-on: ubuntu-latest
+    name: Generate minesweeper game
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: JonathanGin52/minesweeper-action@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          board-size: 8
+          num-mines: 10
+          commit-message: "chore: update minesweeper board"
