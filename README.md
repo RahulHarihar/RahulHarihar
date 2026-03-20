@@ -23,11 +23,11 @@
 ## `$ whoami`
 
 ```yaml
-name     : Rahul Harihar
-role     : Full-Stack Engineer  |  Team Lead (internship)
-team     : Leading 5 engineers on MERN + AWS microservices product
-status   : open to remote roles ✓
-location : India
+name: Rahul Harihar
+role: Full-Stack Engineer  |  Team Lead (internship)
+team: Leading 5 engineers on MERN + AWS microservices product
+status: open to remote roles ✓
+location: India
 ```
 
 ---
@@ -36,13 +36,13 @@ location : India
 
 ```json
 {
-  "languages"   : ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-  "frontend"    : ["React", "Next.js", "Tailwind CSS", "Three.js", "Framer Motion"],
-  "backend"     : ["Node.js", "Express.js", "REST APIs", "Microservices", "JWT"],
-  "databases"   : ["MongoDB", "PostgreSQL", "MySQL"],
-  "ml_data"     : ["NumPy", "Pandas", "PyTorch"],
-  "cloud_infra" : ["AWS", "Vercel", "Render", "MongoDB Atlas", "Supabase"],
-  "tools"       : ["Git", "GitHub", "Figma", "Vite", "VS Code", "Sentry"]
+	"languages": ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+	"frontend": ["React", "Next.js", "Tailwind CSS", "Three.js", "Framer Motion"],
+	"backend": ["Node.js", "Express.js", "REST APIs", "Microservices", "JWT"],
+	"databases": ["MongoDB", "PostgreSQL", "MySQL"],
+	"ml_data": ["NumPy", "Pandas", "PyTorch"],
+	"cloud_infra": ["AWS", "Vercel", "Render", "MongoDB Atlas", "Supabase"],
+	"tools": ["Git", "GitHub", "Figma", "Vite", "VS Code", "Sentry"]
 }
 ```
 
@@ -61,11 +61,14 @@ f50a219  chore: oss-pr — merged: test/auth signup validation cleanup
 
 ### `▲ spotlight — devstrex`
 
-> **[devstrex.vercel.app](https://devstrex.vercel.app)** — create any dev challenge. log daily. track streaks. share publicly.
+> **[devstrex.vercel.app](https://devstrex.vercel.app)** — create any dev
+> challenge. log daily. track streaks. share publicly.
 >
-> `React 18` `Node.js` `Express` `MongoDB` `TypeScript` `Tailwind v4` `JWT` `Render` `Vercel` `Atlas`
+> `React 18` `Node.js` `Express` `MongoDB` `TypeScript` `Tailwind v4` `JWT`
+> `Render` `Vercel` `Atlas`
 >
-> *the meta story: used devstrex to track the same 30-day mern challenge while building it — shipped daily under real constraints.*
+> _the meta story: used devstrex to track the same 30-day mern challenge while
+> building it — shipped daily under real constraints._
 
 ---
 
@@ -111,24 +114,17 @@ f50a219  chore: oss-pr — merged: test/auth signup validation cleanup
 
 ---
 
- 
-## `$ ./minesweeper --play`
- 
-> **click a cell to reveal · open an issue to make a move**
-> board auto-refreshes every 6 hours via github actions
- 
-<!-- minesweeper-start -->
-![minesweeper](https://raw.githubusercontent.com/RahulHarihar/RahulHarihar/main/minesweeper.svg)
-<!-- minesweeper-end -->
- 
-<sub>
-  reveal a cell &rarr; open an issue titled <code>minesweeper|reveal|row,col</code><br/>
-  flag a mine &rarr; open an issue titled <code>minesweeper|flag|row,col</code><br/>
-  new game &rarr; open an issue titled <code>minesweeper|new-game</code>
-</sub>
+## `$ ./snake --eat-contributions`
+
+> a snake eating my github contribution graph · auto-updates every 12 hours
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/RahulHarihar/RahulHarihar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahulHarihar/RahulHarihar/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/RahulHarihar/RahulHarihar/output/github-snake.svg" />
+</picture>
  
 ---
-
 
 <div align="center">
 
