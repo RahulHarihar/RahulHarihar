@@ -116,7 +116,7 @@ f50a219  chore: oss-pr — merged: test/auth signup validation cleanup
 
 ## `$ ./snake --eat-contributions`
 
-> a snake eating my github contribution graph · auto-updates every 12 hours
+> _O(n) hunger, O(1) regrets_
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/RahulHarihar/RahulHarihar/output/github-snake-dark.svg" />
