@@ -111,6 +111,24 @@ f50a219  chore: oss-pr — merged: test/auth signup validation cleanup
 
 ---
 
+ 
+## `$ ./minesweeper --play`
+ 
+> **click a cell to reveal · open an issue to make a move**
+> board auto-refreshes every 6 hours via github actions
+ 
+<!-- minesweeper-start -->
+![minesweeper](https://raw.githubusercontent.com/RahulHarihar/RahulHarihar/main/minesweeper.svg)
+<!-- minesweeper-end -->
+ 
+<sub>
+  reveal a cell &rarr; open an issue titled <code>minesweeper|reveal|row,col</code><br/>
+  flag a mine &rarr; open an issue titled <code>minesweeper|flag|row,col</code><br/>
+  new game &rarr; open an issue titled <code>minesweeper|new-game</code>
+</sub>
+ 
+---
+
 
 <div align="center">
 
