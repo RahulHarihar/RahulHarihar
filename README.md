@@ -128,7 +128,7 @@ f50a219  chore: oss-pr — merged: test/auth signup validation cleanup
 
 <div align="center">
 
-<sub><b>open to remote roles · India · MCA 2026</b></sub><br/>
+<sub><b>open to remote roles · India </b></sub><br/>
 <sub><a href="https://rahulharihar-portfolio.vercel.app">rahulharihar-portfolio.vercel.app</a></sub>
 
 <br/>
